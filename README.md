@@ -394,7 +394,7 @@ MIT License - Libre para uso educativo y comercial
 
 ---
 
-**Desarrollado por:** [Tu Nombre]  
+**Desarrollado por:** Brian Eduardo Alvarado De Paz
 **Profesor:** M.C. Leonel González Vidales  
 **Última actualización:** 7 de octubre 2025  
 **Versión:** 1.0.0
