@@ -106,8 +106,8 @@ calculator-app/
 - **SettingsScreen.js**: Configuración y ajustes de la aplicación
 - **screens.js**: Constantes para nombres de pantallas
 
-## 5. Instalación y Configuración
-
+## 5. Instalación y Configuración  
+ 
 ### Instalación de Dependencias:
 ```bash
 # Clonar el repositorio
@@ -190,7 +190,7 @@ npx expo start --web
 - **Diseño Elegante**: Interfaz limpia con tema oscuro
 - **Navegación Simple**: Un toque para acceder a la calculadora
 
-![Pantalla de Inicio](src/screenshots/pantalla1.jpg)
+![Pantalla de Inicio](src/Screenshots/pantalla1.jpg)
 
 ### Pantalla de Calculadora (CalculatorScreen):
 - **Display Digital**: Muestra números y resultados en tiempo real
@@ -211,7 +211,7 @@ npx expo start --web
 - **Diseño Ergonómico**: Botones grandes y fáciles de presionar
 - **Feedback Visual**: Colores diferenciados por tipo de botón
 
-![Pantalla de Calculadora](src/screenshots/pantalla2.jpg)
+![Pantalla de Calculadora](src/Screenshots/pantalla2.jpg)
 
 ### Pantalla de Historial (HistoryScreen):
 - **Lista de Operaciones**: Muestra todas las operaciones realizadas
