@@ -18,15 +18,19 @@
     "@react-navigation/native": "^7.1.17",
     "@react-navigation/native-stack": "^7.3.26",
     "babel-plugin-module-resolver": "^5.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "expo": "~54.0.0",
     "expo-status-bar": "~2.2.3",
+    "express": "^5.1.0",
     "metro": "^0.82.0",
     "metro-config": "0.76.9",
     "metro-core": "0.76.9",
     "metro-resolver": "0.76.9",
     "metro-runtime": "0.76.9",
     "metro-source-map": "0.76.9",
-    "native-base": "^3.4.28",
+    "mysql2": "^3.15.3",
+    "native-base": "^2.15.2",
     "nativewind": "^4.1.23",
     "react": "19.0.0",
     "react-aria": "^3.33.0",
@@ -48,5 +52,17 @@
     "@types/react": "~19.0.10",
     "typescript": "~5.8.3"
   },
-  "private": true
+  "private": true,
+  "description": "- **Nombre de la App:** Calculator App\r - **Asignatura/Profesor:** Desarrollo de Aplicaciones Móviles / M.C. Leonel González Vidales\r - **Periodo/Fecha:** Octubre 2025\r - **URL del Repositorio:** https://github.com/usuario/calculator-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianEduardo19/calculadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianEduardo19/calculadora/issues"
+  },
+  "homepage": "https://github.com/BrianEduardo19/calculadora#readme"
 }
